@@ -13,7 +13,7 @@ $select_products = $con->prepare("SELECT * FROM products WHERE seller_id = ?");
 $select_products->execute(array($seller_id));
 $total_product = $select_products->rowCount();
 
-$select_orders = $con->prepare("SELECT * FROM products WHERE seller_id = ?");
+$select_orders = $con->prepare("SELECT * FROM orders WHERE seller_id = ?");
 $select_orders->execute(array($seller_id));
 $total_orders = $select_orders->rowCount();
 
