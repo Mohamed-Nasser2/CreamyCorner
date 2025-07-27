@@ -55,11 +55,11 @@
             <p><i class="bx bxs-phone"></i>(+20)120-580-5123</p>
             <p><i class="bx bxs-envelope"></i>mohamed1@gmail.com</p>
             <p><i class="bx bxs-location-plus"></i>Africa, Egypt</p>
-            <div class="icons">
-                <i class="bx bxl-facebook"></i>
-                <i class="bx bxl-twitter"></i>
-                <i class="bx bxl-instagram"></i>
-                <i class="bx bxl-linkedin"></i>
+            <div class="icons"style="display: flex;">
+                <a href="https://www.facebook.com/profile.php?id=100053726331948" class="icon-link" target="_blank"><i class="bx bxl-facebook"></i></a>
+                <a href="https://twitter.com" class="icon-link" target="_blank"><i class="bx bxl-twitter"></i></a>
+                <a href="https://www.instagram.com/mohammeed_nasser/" class="icon-link" target="_blank"><i class="bx bxl-instagram"></i></a>
+                <a href="https://www.linkedin.com/in/mohamed-nasser-67160b213/" class="icon-link" target="_blank"><i class="bx bxl-linkedin"></i></a>
             </div>
         </div>
     </div>
